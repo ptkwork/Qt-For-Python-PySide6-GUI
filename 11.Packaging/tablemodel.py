@@ -7,7 +7,7 @@ class TableModel(QtCore.QAbstractTableModel):
         super(TableModel, self).__init__(*args)
 
         self.table = [
-            ["John","Doe","32","Farmer","Single","Gounduana","red"],
+            ["PETER","Doe","32","Farmer","Single","Gounduana","red"],
             ["Mary","Jane","27","Teacher","Married","Verkso","green"],
             ["John","Doe","32","Farmer","Single","Gounduana","blue"],
             ["Mary","Jane","27","Teacher","Married","Verkso","yellow"]
